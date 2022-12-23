@@ -27,5 +27,5 @@ Azure Bot Service, Azure Cognitive Services, Static Web Apps
 
 
 
-<a align= "center" href="https://futurereadytalent.in/">Future Ready Talent</a>
+#<a align= "center" href="https://futurereadytalent.in/">Future Ready Talent</a>
 <p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/FRT.jpeg" width="700" height= "350"></p>   
