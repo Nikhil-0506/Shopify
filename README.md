@@ -26,5 +26,35 @@ The project's core idea is to build a sample prototype Shopify Website with a FA
 Azure Bot Service, Azure Cognitive Services, Static Web Apps
 
 
+### Create a Resource Group from your Azure portal.
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/RG.png" width="700" height= "350"></p> 
+
+### Create a Static web app and you are ready to host your website.Azure provides a lot of insightful tools.
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/SWA.png" width="700" height= "350"></p> 
+
+### Create a Cognitive Serevics from your Azure portal.
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/CG.png" width="700" height= "350"></p> 
+
+### Tech Stack
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/TS.png" width="700" height= "350"></p> 
+
+### Home page with Carousel
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/HP.png" width="700" height= "350"></p> 
+
+### Product Page
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/PP.png" width="700" height= "350"></p>
+
+### Categories Page
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/CP.png" width="700" height= "350"></p> 
+
+### Contact Us Page
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/CUP.png" width="700" height= "350"></p> 
+
+### Map Services & Chat Bot
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/MCP.png" width="700" height= "350"></p> 
+
+### Footer
+<p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/FP.png" width="700" height= "350"></p> 
+
 # <a href='https://futurereadytalent.in/'>Future Ready Talent</a>
 <p align= "center"><img src="https://github.com/Nikhil-0506/Shopify/blob/main/images/FRT.jpeg" width="700" height= "350"></p>   
